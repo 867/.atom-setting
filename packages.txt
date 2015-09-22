@@ -1,2 +1,4 @@
+git-control@0.3.0
 japanese-wrap@0.2.7
+project-manager@2.5.2
 
